@@ -1,0 +1,173 @@
+html {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #1d1d1d;
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+}
+
+.container {
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    background-color: rgba(29, 29, 29, 0.6);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    height: 100vh;
+    padding: 25px;
+}
+
+* {
+    font-family: FuturaBT-Medium;
+    outline: none;
+    box-sizing: border-box;
+    transition: all 0.2s ease;
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    touch-action: manipulation;
+}
+
+.radio {
+    background: linear-gradient(90deg, #e6ebee, #f0f0f0);
+    padding: 0px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 0px 0px #b1b8c0 inset, 0px -10px 10px 10px #b1b8c0 inset, 0px 1px 0px 2px #b1b8c0 inset, 0 55px 10px -25px rgba(0, 0, 0, 0.1), 0px 0px 30px -10px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.lcd {
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-color: #99a883;
+    overflow: hidden;
+    width: 440px;
+    border-radius: 3px;
+    padding: 20px;
+    border: #222816 solid 5px;
+    font-family: 'LED Dot-Matrix';
+    font-size: 20px;
+    text-align: left;
+    box-shadow: 0 5px 20px .05px #130f0a inset, 5px 0 10px -4px #130f0a inset, -0.5px 0 3px 1px #130f0a inset, 0 0 0 2px rgba(0, 0, 0, 1), 0 65px 50px -10px rgba(0, 0, 0, -0.05);
+}
+
+.casette {
+    cursor: pointer;
+    display: inline-block;
+    background-color: #333;
+    color: gray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    width: 300px;
+    border-radius: 3px;
+    padding: 5px;
+    border: #222816 solid 5px;
+    box-shadow: 0 5px 20px .05px #130f0a inset, 5px 0 10px -4px #130f0a inset, -0.5px 0 3px 1px #130f0a inset, 0 0 0 2px rgba(0, 0, 0, 1), 0 65px 50px -10px rgba(0, 0, 0, -0.05);
+}
+
+button {
+    cursor: pointer;
+}
+
+.vol-buttons,
+.power {
+    float: left;
+}
+
+.freq-buttons,
+.eject {
+    float: right;
+}
+
+.vol-buttons button,
+.freq-buttons button,
+.bottom button {
+    font-size: 20px;
+    display: block;
+    width: 50px;
+    height: 33px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 1px;
+    box-shadow: 3px 3px 3px 0 #102027 inset,
+        3px 5px 3px -5px #aeaeae inset,
+        3px 3px 0 1px #102027 inset,
+        0 0 0px 3px rgba(0, 0, 0, 4),
+        3px 3px 4px 3px rgba(0, 0, 0, 4),
+        0 0 50px -10px rgba(0, 0, 0, -0.05);
+}
+
+.vol-buttons button:active,
+.freq-buttons button:active,
+.bottom button:active {
+    box-shadow: 3px 3px 3px 0 #10202700 inset,
+        3px 5px 3px -5px #aeaeae inset,
+        3px -2px 0 1px #10202700 inset,
+        0 0 0px 3px rgba(0, 0, 0, 4),
+        3px 3px 4px 3px rgba(0, 0, 0, 4),
+        0 0 50px -10px rgba(0, 0, 0, -0.05);
+}
+
+.bottom button {
+    margin-top: 15px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.bottom button:last-child {
+    margin-right: 0;
+}
+
+.power,
+.eject {
+    font-size: 20px;
+    background-color: #d84315;
+    display: block;
+    width: 50px;
+    height: 33px;
+    color: white;
+    border: none;
+    border-radius: 1px;
+    box-shadow: 3px 3px 3px 0 #b91400 inset,
+        3px 5px 3px -5px #aeaeae inset,
+        3px 3px 0 1px #b91400 inset,
+        0 0 0px 3px rgba(0, 0, 0, 4),
+        3px 3px 4px 3px rgba(0, 0, 0, 4),
+        0 0 50px -10px rgba(0, 0, 0, -0.05);
+}
+
+.power {
+    margin-top: 21px;
+    margin-left: 21px;
+}
+
+.eject {
+    margin-top: 21px;
+    margin-right: 21px;
+}
+
+.power:active,
+.eject:active {
+    box-shadow: 3px 3px 3px 0 #b9140000 inset,
+        3px 5px 3px -5px #aeaeae inset,
+        3px 3px 0 1px #b9140000 inset,
+        0 0 0px 3px rgba(0, 0, 0, 4),
+        3px 3px 4px 3px rgba(0, 0, 0, 4),
+        0 0 50px -10px rgba(0, 0, 0, -0.05);
+}
+
+.fa-solid {
+    margin-top: 6px;
+}
+
+select {
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(29, 29, 29, 0.5);
+    color: white;
+    cursor: pointer;
+}

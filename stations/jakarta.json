@@ -1,0 +1,413 @@
+{
+    "apiVersion": 0,
+    "version": "e516fa4",
+    "data": {
+      "map": "q2gXIuHJ",
+      "url": "/visit/jakarta/q2gXIuHJ/channels",
+      "type": "page",
+      "count": 55,
+      "title": "Jakarta",
+      "subtitle": "All Stations",
+      "utcOffset": 420,
+      "content": [
+        {
+          "itemsType": "channel",
+          "type": "list",
+          "items": [
+            {
+              "page": {
+                "type": "page",
+                "title": "Airmen Radio FM 107.9",
+                "url": "/listen/airmen-radio-fm-107-9/ooStSGs7",
+                "stream": "idserverhost.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Alternatif Radio FM 98.1",
+                "url": "/listen/alternatif-radio-fm-98-1/boClWbgl",
+                "stream": "idserverhost.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "ARB FM Jakarta",
+                "url": "/listen/arb-fm-jakarta/fIYxli5Q",
+                "stream": "idserverhost.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "AXR Jakarta",
+                "url": "/listen/axr-jakarta/E434Pdf4",
+                "stream": "axr.online"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Bahana FM 101.8",
+                "url": "/listen/bahana-fm-101-8/BdH2mD0t",
+                "stream": "cloudmu.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Brava Radio FM 103.8",
+                "url": "/listen/brava-radio-fm-103-8/-iyY_kNY",
+                "stream": "radiojar.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "BVoice Radio",
+                "url": "/listen/b-voice-radio/OOV1UUaW",
+                "stream": "siar.us"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Camajaya FM 102.6",
+                "url": "/listen/camajaya-fm-102-6/DWd9ATAx",
+                "stream": "streamingmurah.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Campursari FM 89.2",
+                "url": "/listen/campursari-fm-89-2/yzLqGRYS",
+                "stream": "campursarifm.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Channel 5",
+                "url": "/listen/channel-5/wFmdZuuY",
+                "stream": "rri.co.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Cosmopolitan FM 90.4",
+                "url": "/listen/cosmopolitan-fm-90-4/Yd4Mdr1M",
+                "stream": "radiojar.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "davoiceradio",
+                "url": "/listen/davoiceradio/Vxb970MO",
+                "stream": "alhasmedia.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "deHills Radio",
+                "url": "/listen/de-hills-radio/VKVj4oKa",
+                "stream": "stri.my.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Delta FM 99.1",
+                "url": "/listen/delta-fm-99-1/lRazAxL1",
+                "stream": "cloudmu.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "FeMale FM 97.9",
+                "url": "/listen/fe-male-fm-97-9/u6IayO8U",
+                "stream": "cloudmu.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Good Radio 94.3 FM",
+                "url": "/listen/good-radio-94-3-fm/hG7hansQ",
+                "stream": "goodradiojakarta.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Hard Rock FM 87.6",
+                "url": "/listen/hard-rock-fm-87-6/wXrdYgEd",
+                "stream": "arenastreaming.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "IMI Radio 96.7 FM",
+                "url": "/listen/imi-radio-96-7-fm/YPkjixsl",
+                "stream": "siar.us"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Iradio FM 101.4",
+                "url": "/listen/iradio-fm-101-4/PVj0mZgV",
+                "stream": "radiojar.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Japanese Music ID",
+                "url": "/listen/japanese-music-id/QXSH1lX5",
+                "stream": "japanesemusicid.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Jazz Abe",
+                "url": "/listen/jazz-abe/luU_ePt5",
+                "stream": "zeno.fm"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "MNC Trijaya 104.6 FM",
+                "url": "/listen/mnc-trijaya-104-6-fm/vbhEDs3z",
+                "stream": "roov.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Motion Radio FM 97.5",
+                "url": "/listen/motion-radio-fm-97-5/xB3VQKAS",
+                "stream": "my-control-panel.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "MS TRI FM 104.2",
+                "url": "/listen/ms-tri-fm-104-2/646ieOMb",
+                "stream": "siar.us"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "OZ Radio Jakarta FM 90.8",
+                "url": "/listen/oz-radio-jakarta-fm-90-8/AbEMX8iq",
+                "stream": "ozradiojakarta.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Pas FM 92.4",
+                "url": "/listen/pas-fm-92-4/VD8vxiZr",
+                "stream": "klikhost.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Perpusnas Radio",
+                "url": "/listen/perpusnas-radio/uGkIPlAD",
+                "stream": "perpusnas.go.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "PFGRadio",
+                "url": "/listen/pfgradio/_iHrQb_D",
+                "stream": "klikhost.net"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Prambors FM 102.2",
+                "url": "/listen/prambors-fm-102-2/NZYf7QsQ",
+                "stream": "streamtheworld.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Publica 89.6 FM",
+                "url": "/listen/publica-89-6-fm/fTlx93dE",
+                "stream": "revma.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Radio GPIB",
+                "url": "/listen/radio-gpib/Efi9GJjV",
+                "stream": "siar.us"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Radio Kaj",
+                "url": "/listen/radio-kaj/6oiJNOk6",
+                "stream": "siar.us"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Radio Muara AM 693",
+                "url": "/listen/radio-muara-am-693/ZcHFGxST",
+                "stream": "streamingmurah.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Radio Pelita Kasih 96.3 FM",
+                "url": "/listen/radio-pelita-kasih-96-3-fm/HH8tRXPV",
+                "stream": "classynetradio.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Radio Sonora FM 92",
+                "url": "/listen/radio-sonora-fm-92/K7PgWkUF",
+                "stream": "my-control-panel.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "RAS FM 95.5 Jakarta",
+                "url": "/listen/ras-fm-95-5-jakarta/8u5EuLsL",
+                "stream": "klikhost.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "RDI FM 97.1",
+                "url": "/listen/rdi-fm-97-1/aGmt96mP",
+                "stream": "roov.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "RRI Pro 1 91.2FM",
+                "url": "/listen/rri-pro-1-91-2-fm/XSIaC7c5",
+                "stream": "rri.co.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "RRI Pro 2 105FM",
+                "url": "/listen/rri-pro-2-105-fm/w8C8BnBC",
+                "stream": "rri.co.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "RRI Pro 3 - KBRN - FM 88.8",
+                "url": "/listen/rri-pro-3-kbrn-fm-88-8/73bmN6eI",
+                "stream": "rri.co.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "RRI Pro 4 92.8FM",
+                "url": "/listen/rri-pro-4-92-8-fm/WPatpqkh",
+                "stream": "rri.co.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "RRI SW 4750 Voice of Indonesia",
+                "url": "/listen/rri-sw-4750-voice-of-indonesia/TkoapbTh",
+                "stream": "rri.co.id"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Smart FM 95.9",
+                "url": "/listen/smart-fm-jakarta/DFZn7FbP",
+                "stream": "my-control-panel.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Synchronize Radio",
+                "url": "/listen/synchronize-radio/DDInjRUu",
+                "stream": "shoutcast.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Tebet Radio FM 107.2",
+                "url": "/listen/tebet-radio-fm-107-2/VdLMCHi9",
+                "stream": "siar.us"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Trax FM 101.4",
+                "url": "/listen/trax-fm-101-4/fHs9Eja2",
+                "stream": "arenastreaming.com"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Utaindo Radio",
+                "url": "/listen/utaindo-radio/JeDWCfFx",
+                "stream": "gntr.net"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "X Channel 93.6 FM",
+                "url": "/listen/x-channel-93-6-fm/wcan0azo",
+                "stream": "zeno.fm"
+              }
+            },
+            {
+              "page": {
+                "type": "page",
+                "title": "Z 99.9 FM",
+                "url": "/listen/z-99-9-fm/18itN9qk",
+                "stream": "radioddns.net"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
